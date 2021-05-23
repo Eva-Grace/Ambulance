@@ -1,0 +1,17 @@
+<resources>
+    <string name="ambul">Ambulance</string>
+    <string name="selected_item">Location Selected:</string>
+
+    <string-array name="Location">
+        <item>JB Nagar</item>
+        <item>Koramangala</item>
+        <item>JP Nagar</item>
+        <item>Domlur</item>
+        <item>Indranagar</item>
+        <item>Marathalli</item>
+    </string-array>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+</resources>
